@@ -11,6 +11,7 @@ namespace Figure
         static void Main(string[] args)
         {
 
+            Console.ReadLine(); 
         }
     }
 }
